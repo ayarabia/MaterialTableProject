@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.a237ecd8.css",
-    "main.js": "/my-app/static/js/main.addc400f.js",
-    "static/js/498.9c9271a9.chunk.js": "/my-app/static/js/498.9c9271a9.chunk.js",
-    "static/js/703.403e76b2.chunk.js": "/my-app/static/js/703.403e76b2.chunk.js",
-    "static/js/635.8f743625.chunk.js": "/my-app/static/js/635.8f743625.chunk.js",
-    "static/js/787.28cb0dcd.chunk.js": "/my-app/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/my-app/index.html",
-    "main.a237ecd8.css.map": "/my-app/static/css/main.a237ecd8.css.map",
-    "main.addc400f.js.map": "/my-app/static/js/main.addc400f.js.map",
-    "498.9c9271a9.chunk.js.map": "/my-app/static/js/498.9c9271a9.chunk.js.map",
-    "703.403e76b2.chunk.js.map": "/my-app/static/js/703.403e76b2.chunk.js.map",
-    "635.8f743625.chunk.js.map": "/my-app/static/js/635.8f743625.chunk.js.map",
-    "787.28cb0dcd.chunk.js.map": "/my-app/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/MaterialTableProject/static/css/main.a237ecd8.css",
+    "main.js": "/MaterialTableProject/static/js/main.fdc9cb5f.js",
+    "static/js/498.9c9271a9.chunk.js": "/MaterialTableProject/static/js/498.9c9271a9.chunk.js",
+    "static/js/703.403e76b2.chunk.js": "/MaterialTableProject/static/js/703.403e76b2.chunk.js",
+    "static/js/635.8f743625.chunk.js": "/MaterialTableProject/static/js/635.8f743625.chunk.js",
+    "static/js/787.28cb0dcd.chunk.js": "/MaterialTableProject/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/MaterialTableProject/index.html",
+    "main.a237ecd8.css.map": "/MaterialTableProject/static/css/main.a237ecd8.css.map",
+    "main.fdc9cb5f.js.map": "/MaterialTableProject/static/js/main.fdc9cb5f.js.map",
+    "498.9c9271a9.chunk.js.map": "/MaterialTableProject/static/js/498.9c9271a9.chunk.js.map",
+    "703.403e76b2.chunk.js.map": "/MaterialTableProject/static/js/703.403e76b2.chunk.js.map",
+    "635.8f743625.chunk.js.map": "/MaterialTableProject/static/js/635.8f743625.chunk.js.map",
+    "787.28cb0dcd.chunk.js.map": "/MaterialTableProject/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a237ecd8.css",
-    "static/js/main.addc400f.js"
+    "static/js/main.fdc9cb5f.js"
   ]
 }
